@@ -1,0 +1,23 @@
+{
+  "user": {
+    "id": 1,
+    "username": "Tinita",
+    "firstName": "Kristina",
+    "lastName": "Baranovskaia",
+    "email": "tinita@tinita.ru",
+    "password": "tinita",
+    "phone": "+79991112233",
+    "userStatus": 0
+  },
+
+  "userUpdate": {
+    "id": 2,
+    "username": "Nita",
+    "firstName": "Kris",
+    "lastName": "Aleksandrova",
+    "email": "tinita@tinita.ru",
+    "password": "tinita",
+    "phone": "+79991112233",
+    "userStatus": 0
+  }
+}
